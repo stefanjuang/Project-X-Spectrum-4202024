@@ -20,6 +20,7 @@ If the code encounter error, try running the following code before the code was 
 ```bash
 python X_Spectrum_old.py
 ```
+Input your X API bear token.
 Input your post when prompted, and the system will provide a visualization of where your post stands in relation to others in terms of content diversity and extremity.
 
 
