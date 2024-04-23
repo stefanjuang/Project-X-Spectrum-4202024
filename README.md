@@ -39,7 +39,8 @@ Once the Keyword Extraction and Vectorization models are loaded onto GPU, the vi
 The two models can take up to ~11 G of RAM.
 
 ## Output
-
+In the output plot, we can see where our input post is relative to a batch of platform posts. 
+In addition, we see that the left shows a spike of zero distance posts. (Most, if not all, of these are spam - where the vector distance distribution is differ from the rest of the platform posts)
 <img src="./Logo/sample_output.png" alt="Spectrum" width="800" height="480">
 
 
