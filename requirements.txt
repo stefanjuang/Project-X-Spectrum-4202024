@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+tweepy
+sentencepiece
+sentence_transformers
+requests
+re
