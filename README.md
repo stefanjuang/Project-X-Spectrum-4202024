@@ -16,7 +16,14 @@ Run the script from the command line to input your social media post and view th
 ```bash
 python X_Spectrum.py
 ```
+If the code encounter error, try running the following code before the code was refactored:
+```bash
+python X_Spectrum_old.py
+```
 Input your post when prompted, and the system will provide a visualization of where your post stands in relation to others in terms of content diversity and extremity.
+
+
+
 
 ## Features
 - **Keyword Extraction**: Utilizes the T5 model to extract keywords from user A's current post.
