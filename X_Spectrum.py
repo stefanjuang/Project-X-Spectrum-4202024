@@ -45,7 +45,7 @@ from bs4 import BeautifulSoup
 from sentence_transformers import SentenceTransformer
 
 # Assuming you have set your environment variable as BEARER_TOKEN
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAImQtQEAAAAAN79NNDItY%2FZhqXzRq42mywwEQ6s%3DHLQJKSiwSQ706rp1gv8tUQpCNA29t9D4gDRiNu6EKO8K5qVM0b"
+bearer_token = ""
 
 model = SentenceTransformer("mixedbread-ai/mxbai-embed-large-v1")
 
