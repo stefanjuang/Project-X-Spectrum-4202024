@@ -32,7 +32,7 @@ The two models can take up to ~11 G of RAM.
 
 ## Output
 
-<img src="./sample_output.png" alt="Spectrum" width="800" height="480">
+<img src="./Logo/sample_output.png" alt="Spectrum" width="800" height="480">
 
 
 ## Contributing
@@ -47,4 +47,4 @@ Contributions are welcome! For major changes, please open an issue first to disc
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-<img src="./Logo_gif2-ezgif.com-video-to-gif-converter.gif" alt="My Project GIF" width="800" height="480">
+<img src="./Logo/Logo_gif2-ezgif.com-video-to-gif-converter.gif" alt="My Project GIF" width="800" height="480">
