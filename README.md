@@ -2,6 +2,7 @@
 
 ## Project Overview
 The X Spectrum Analysis project aims to analyze and visualize the spectrum of X media posts to determine where they fall on a topic's distribution, whether moderate or extreme, based on vector distances among posts. This tool is instrumental in identifying trends, polarization, and bot-generated content within social media discussions.
+<img src="./Logo/WhereOnSpectrum.jpeg" alt="Spectrum1" width="800" height="480">
 
 ## Installation
 To set up the project locally, follow these steps:
